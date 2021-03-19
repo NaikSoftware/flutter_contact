@@ -7,18 +7,18 @@ environment:
   sdk: '>=2.6.0 <3.0.0'
   flutter: ^1.10.0
 dependencies: 
-  collection: ^1.14.11
-  equatable: ^1.2.5
-  intl: ^0.16.1
-  logging: ^0.11.4
-  logging_config: ^0.4.7
-  quiver: ^2.1.3
-  sunny_dart: ^0.6.0+4
+  collection: ^1.15.0
+  equatable: ^2.0.0
+  intl: ^0.17.0
+  logging: ^1.0.0
+  logging_config: ^0.6.7+6
+  quiver: ^3.0.0
+  sunny_dart: ^0.8.2+2
+  uuid: ^3.0.1
   flutter: 
     sdk: flutter
 
 dependency_overrides:
-  uuid: ^3.0.1
 
 dev_dependencies: 
   flutter_test: 
